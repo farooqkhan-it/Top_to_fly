@@ -1,0 +1,166 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="description"
+          content="Terms and Conditions for the Tap to Fly mobile game.">
+
+    <title>Terms and Conditions - Tap to Fly</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.7;
+            max-width: 850px;
+            margin: 40px auto;
+            padding: 20px;
+            color: #333;
+            background-color: #f5f7fa;
+        }
+
+        main {
+            background: #fff;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+        }
+
+        h1, h2 {
+            color: #1675d1;
+        }
+
+        h1 {
+            border-bottom: 2px solid #1675d1;
+            padding-bottom: 10px;
+        }
+
+        a {
+            color: #1675d1;
+        }
+
+        footer {
+            margin-top: 30px;
+            padding-top: 15px;
+            border-top: 1px solid #ddd;
+            font-size: 14px;
+            color: #666;
+        }
+    </style>
+</head>
+
+<body>
+<main>
+    <h1>Terms and Conditions</h1>
+
+    <p><strong>App Name:</strong> Tap to Fly</p>
+    <p><strong>Effective Date:</strong> October 22, 2026</p>
+
+    <h2>1. Introduction</h2>
+    <p>
+        Welcome to Tap to Fly. These Terms and Conditions govern
+        your use of the Tap to Fly mobile game. By downloading,
+        installing, or playing the game, you agree to these terms.
+        If you do not agree, please discontinue using the game.
+    </p>
+
+    <h2>2. Use of the Game</h2>
+    <p>
+        Tap to Fly is a casual entertainment game. You agree to use
+        the game only for lawful purposes and in accordance with
+        these Terms and Conditions.
+    </p>
+
+    <h2>3. Game Rules</h2>
+    <p>
+        Players should play fairly and must not attempt to hack,
+        modify, exploit, or interfere with the normal operation
+        of the game.
+    </p>
+
+    <h2>4. Intellectual Property</h2>
+    <p>
+        Unless otherwise stated, the game's name, design, graphics,
+        artwork, interface, and original content are owned by the
+        developer or used with permission.
+    </p>
+
+    <p>
+        You may not copy, redistribute, sell, or commercially use
+        protected game content without the appropriate permission.
+    </p>
+
+    <h2>5. Advertisements and Payments</h2>
+    <p>
+        Tap to Fly does not display advertisements. If the game
+        currently offers no in-app purchases, no payment is required
+        to access its available gameplay features.
+    </p>
+
+    <h2>6. Privacy</h2>
+    <p>
+        We respect your privacy. Please review our Privacy Policy
+        to understand how information is handled when you use
+        Tap to Fly.
+    </p>
+
+    <p>
+        Privacy Policy:
+        <a href="privacy-policy.html">Read our Privacy Policy</a>
+    </p>
+
+    <h2>7. Updates and Availability</h2>
+    <p>
+        We may update, improve, modify, or discontinue parts of
+        the game when necessary, including to fix bugs, improve
+        performance, or maintain compatibility with devices.
+    </p>
+
+    <h2>8. Disclaimer</h2>
+    <p>
+        The game is provided on an "as is" and "as available"
+        basis to the extent permitted by applicable law. We do
+        not guarantee that the game will always be uninterrupted,
+        error-free, or compatible with every device.
+    </p>
+
+    <h2>9. Limitation of Liability</h2>
+    <p>
+        To the extent permitted by applicable law, the developer
+        is not liable for indirect or incidental damages arising
+        from the use of the game. Nothing in these terms excludes
+        liability that cannot legally be excluded.
+    </p>
+
+    <h2>10. Changes to These Terms</h2>
+    <p>
+        We may revise these Terms and Conditions when necessary.
+        Updated terms will be published on this page with a
+        revised effective date.
+    </p>
+
+    <h2>11. Governing Law</h2>
+    <p>
+        These Terms and Conditions are subject to the applicable
+        laws of the jurisdiction in which the developer operates,
+        without limiting any mandatory rights available to users
+        under applicable law.
+    </p>
+
+    <h2>12. Contact Information</h2>
+    <p>
+        If you have questions about these Terms and Conditions,
+        please contact the developer:
+    </p>
+
+    <p><strong>Developer Name:</strong> YOUR DEVELOPER NAME</p>
+    <p><strong>Email:</strong> YOUR EMAIL ADDRESS</p>
+
+    <footer>
+        &copy; 2026 Tap to Fly. All rights reserved.
+    </footer>
+</main>
+</body>
+</html>
